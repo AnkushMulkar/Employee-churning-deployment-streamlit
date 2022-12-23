@@ -1,5 +1,5 @@
-# Streamlit app
-Emplyeee_analytics-Employee will churn or not?
+# Emplyeee_analytics-Employee will churn or not? Deployed on Streamlit app
+
 
 
 ### App link https://ankushmulkar-emplyeee-analytics-stramlit-v991uw.streamlit.app/
